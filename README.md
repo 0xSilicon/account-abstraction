@@ -13,7 +13,14 @@ This repository contains the smart contracts source code for Account abstraction
 }
 ```
 
-## Solidity compiler setting
+## Information for compile
+
+### Based Contract
+
+* [eth-infinitism/account-abstraction@0.7](https://github.com/eth-infinitism/account-abstraction/tree/releases/v0.7)
+* [OpenZeppelin/openzeppelin-contracts@5.0.2](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/v5.0.2)
+
+### Solidity compiler setting
 
 ```
 {
